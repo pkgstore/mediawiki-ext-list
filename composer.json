@@ -1,0 +1,46 @@
+{
+  "name": "pkgstore/mediawiki-ext-list",
+  "type": "mediawiki-extension",
+  "description": "MediaWiki list extension.",
+  "license": "MIT",
+  "homepage": "https://ihub.to/",
+  "keywords": [
+    "mediawiki",
+    "meta"
+  ],
+  "authors": [
+    {
+      "name": "iHub TO",
+      "email": "mail@ihub.to",
+      "homepage": "https://ihub.to/",
+      "role": "Developer"
+    },
+    {
+      "name": "Kitsune Solar",
+      "email": "mail@kitsune.solar",
+      "homepage": "https://kitsune.solar/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pkgstore/mediawiki-ext-list/issues",
+    "source": "https://github.com/pkgstore/mediawiki-ext-list"
+  },
+  "require": {
+    "php": ">=8.2",
+    "composer/installers": "^1.0.1",
+    "pkgstore/mediawiki-ext-kernel": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "MW_EXT_List.class.php"
+    ]
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "MW_EXT_List"
+  }
+}

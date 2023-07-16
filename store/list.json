@@ -1,0 +1,126 @@
+{
+  "list": {
+    "project": [
+      {
+        "title": "FURS.Chat",
+        "icon": "fas fa-paw",
+        "style": {
+          "background-color": "#f00",
+          "color": ""
+        },
+        "description": "furs-chat",
+        "url": "https://furs.chat"
+      },
+      {
+        "title": "FURS.News",
+        "icon": "fas fa-paw",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "furs-news",
+        "url": "https://furs.news"
+      },
+      {
+        "title": "FURS.Stream",
+        "icon": "fas fa-paw",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "furs-stream",
+        "url": "https://furs.stream"
+      },
+      {
+        "title": "FURS.Today",
+        "icon": "fas fa-paw",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "furs-today",
+        "url": "https://furs.today"
+      },
+      {
+        "title": "FURS.Wiki",
+        "icon": "fas fa-paw",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "furs-wiki",
+        "url": "https://furs.wiki"
+      },
+      {
+        "title": "Radio.WTF",
+        "icon": "fas fa-broadcast-tower",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "radio-wtf",
+        "url": "https://radio.wtf"
+      },
+      {
+        "title": "METADATA / FOUNDATION",
+        "icon": "fas fa-globe",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "metadata-foundation",
+        "url": "https://metadata.foundation"
+      },
+      {
+        "title": "METASTORE",
+        "icon": "fas fa-store",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "metastore-pro",
+        "url": "https://metastore.pro"
+      },
+      {
+        "title": "Flarum.HELP",
+        "icon": "fas fa-question-circle",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "flarum-help",
+        "url": "https://flarum.help"
+      },
+      {
+        "title": "HumHub.HELP",
+        "icon": "fas fa-question-circle",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "humhub-help",
+        "url": "https://humhub.help"
+      },
+      {
+        "title": "IPB.HELP",
+        "icon": "fas fa-question-circle",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "ipb-help",
+        "url": "https://ipb.help"
+      },
+      {
+        "title": "XenForo.HELP",
+        "icon": "fas fa-question-circle",
+        "style": {
+          "background-color": "",
+          "color": ""
+        },
+        "description": "xenforo-help",
+        "url": "https://xenforo.help"
+      }
+    ]
+  }
+}

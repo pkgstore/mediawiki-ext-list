@@ -1,0 +1,20 @@
+{
+  "@metadata": {
+    "authors": [
+      "iHub TO"
+    ]
+  },
+  "mw-list-desc": "Интеграция списка ресурсов METADATA. Специально для проектов [METADATA / FOUNDATION https://metadata.foundation/].",
+  "mw-list-furs-chat": "Чат сообщества FURRY.",
+  "mw-list-furs-news": "Новости о FURRY.",
+  "mw-list-furs-stream": "Стримы сообщества FURRY.",
+  "mw-list-furs-today": "Журнал сообщества FURRY.",
+  "mw-list-furs-wiki": "WIKI-система сообщества FURRY.",
+  "mw-list-radio-wtf": "Свободная интернет-радиостанция.",
+  "mw-list-metadata-foundation": "Фонд по разработке и поддержке веб-технологий.",
+  "mw-list-metastore-pro": "Платформа по исследованиям и разработкам METADATA.",
+  "mw-list-flarum-help": "Поддержка CMS Flarum.",
+  "mw-list-humhub-help": "Поддержка CMS HumHub.",
+  "mw-list-ipb-help": "Поддержка CMS IPB.",
+  "mw-list-xenforo-help": "Поддержка CMS XenForo."
+}
